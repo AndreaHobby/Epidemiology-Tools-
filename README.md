@@ -23,6 +23,13 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
 
+## Datasets
+
+####
+(http://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
+(https://researchguides.uic.edu/c.php?g=252253&p=1683071)
+(https://www.cdc.gov/DataStatistics/)
+(https://guides.library.upenn.edu/c.php?g=475317&p=3256960)
 
 ## Misc
 
