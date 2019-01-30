@@ -4,24 +4,26 @@ A list of resources of tools to assist with epidemiology research. [![Awesome](h
 Please contribute to this list by pull request or contact me on Twitter @ahobby9.
 
 ## Table of Contents
-- [Books](#books)
+- [Epidemiology Books](#epidemiology)
 - [Papers, Case Studies](#papers-case-studies)
-- [Online Courses](#online-courses)
+- [R Training](#rprogramming)
+- [Stata Training](#stata)
+- [SAS Training](#sastraining)
 - [APIs and Libraries](#apis-and-libraries)
-- [Products](#products)
 - [Datasets](#datasets)
 - [Misc](#misc)
 - [Meta](#meta)
 - [Other Curated Lists](#other-curated-lists)
 
-## Books
+## Epidemiology Books
 
-#### Epidemiology 
+## R Training
 
 #### R
 - [Text Mining with R](http://tidytextmining.com/)
 - [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
+
 
 ## Datasets
 
