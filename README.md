@@ -24,6 +24,12 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
 
+#### R Courses Online
+
+- [Intro to R](https://www.datacamp.com/courses/free-introduction-to-r)
+- [R Programming on Coursera](https://www.coursera.org/learn/r-programming)
+- [Mastering Software Development in R](https://www.coursera.org/specializations/r)
+
 ## Stata
 - [Stata Cheat Sheet](http://geocenter.github.io/StataTraining/portfolio/01_resource/?fbclid=IwAR1L4-_1urU4BeNwvcMoPoBslhGh31c7XxTpSWkJglybQoCa4mSSBNQTUp0)
 
