@@ -26,10 +26,10 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 ## Datasets
 
 ####
-(http://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
-(https://researchguides.uic.edu/c.php?g=252253&p=1683071)
-(https://www.cdc.gov/DataStatistics/)
-(https://guides.library.upenn.edu/c.php?g=475317&p=3256960)
+- [UC Berkeley Data Resources](http://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata)
+- [UIC Data Resources](https://researchguides.uic.edu/c.php?g=252253&p=1683071)
+- [CDC Datasets](https://www.cdc.gov/DataStatistics/)
+- [UPENN Data Resources](https://guides.library.upenn.edu/c.php?g=475317&p=3256960)
 
 ## Misc
 
@@ -39,9 +39,9 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 - [Council for State and Territorial Epidemiologists website](CSTE: http://www.cste.org/ ) and the National Association of County and City Health Officials (NACCHO: http://www.naccho.org/ )
 
-- Applied Epidemiology: Fellowship opportunities (http://www.cste.org/?page=CSTEFellowships) 
+- [Applied Epidemiology: Fellowship opportunities](http://www.cste.org/?page=CSTEFellowships) 
 
-The Florida Department of Health also has a two year fellowship opportunity called the Florida Epidemic Intelligence Service FL-EIS: http://www.floridahealth.gov/%5C/diseases-and-conditions/disease-reporting-and-management/florida-epidemic-intelligence-service/index.html
+- [Florida Department of Health](http://www.floridahealth.gov/%5C/diseases-and-conditions/disease-reporting-and-management/florida-epidemic-intelligence-service/index.html)
 
 - [California Epidemiologic Investigation Service (Cal-EIS) Fellowship Program] (https://www.cdph.ca.gov/programs/Pages/CaliforniaEpidemiologicInvestigationService(Cal-EIS).aspx)
 
