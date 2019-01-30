@@ -37,9 +37,9 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 - [Emory Public Health Employment Connection website](http://cfusion.sph.emory.edu/PHEC/index.cfm?CFID=13092232&CFTOKEN=80281718)
 
-- [Council for State and Territorial Epidemiologists website](CSTE: http://www.cste.org/ )'
+- [Council for State and Territorial Epidemiologists website](http://www.cste.org/ )'
 
-- [National Association of County and City Health Officials](NACCHO: http://www.naccho.org/ )
+- [National Association of County and City Health Officials](http://www.naccho.org/ )
 
 - [Applied Epidemiology: Fellowship opportunities](http://www.cste.org/?page=CSTEFellowships) 
 
@@ -47,4 +47,4 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 - [California Epidemiologic Investigation Service (Cal-EIS) Fellowship Program](https://www.cdph.ca.gov/programs/Pages/CaliforniaEpidemiologicInvestigationService(Cal-EIS).aspx)
 
-- [CDC Fellowship Program](PHAP https://www.cdc.gov/phap/ ).
+- [CDC Fellowship Program](PHAP https://www.cdc.gov/phap/)
