@@ -52,6 +52,10 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 ## Misc
 
+#### SQL
+
+- [Intro to SQL](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+
 #### Jobs
 
 - [Emory Public Health Employment Connection website](http://cfusion.sph.emory.edu/PHEC/index.cfm?CFID=13092232&CFTOKEN=80281718)
