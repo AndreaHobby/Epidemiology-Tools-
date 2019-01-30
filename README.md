@@ -100,3 +100,9 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [ORISE Fellowship](https://orise.orau.gov/stem/internships-fellowships-research-opportunities/index.html)
 
 - [Job Search Tips](https://docs.google.com/document/d/1ooZ5MtfEo9lHDY_zS2UeFJRY8H5b17JfU5L_Ib6xlfA/mobilebasic?fbclid=IwAR15ni1J7xR9eo1bE5k0o4x3TKMHU5FncDfKdrMGjlTp0R_YKWEg3xIoLjo)
+
+## Other Curated Lists
+
+#### List of R Packages
+
+- [Useful R Packages](https://github.com/qinwf/awesome-R)
