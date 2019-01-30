@@ -5,14 +5,12 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 ## Table of Contents
 - [Epidemiology Books](#epidemiology)
-- [Papers, Case Studies](#papers-case-studies)
 - [R Programming](#r)
 - [Stata Programming](#stata)
 - [SAS Programming](#sas)
-- [APIs and Libraries](#apis-and-libraries)
+- [API](#api)
 - [Datasets](#datasets)
 - [Misc](#misc)
-- [Meta](#meta)
 - [Other Curated Lists](#other-curated-lists)
 
 ## Epidemiology 
@@ -50,6 +48,11 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 #### SAS Tutorials
 - [UCLA SAS Tutorials](https://stats.idre.ucla.edu/sas/)
+
+## API
+
+####
+- [SEER API](https://seer.cancer.gov/registrars/api/)
 
 ## Datasets
 
