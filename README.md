@@ -26,6 +26,11 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 ## SAS
 
+#### SAS Books
+- [Little SAS Book](https://amzn.to/2CR6URI)
+- [Learning SAS by Example: A Programmer's Guide](https://amzn.to/2UleDhU)
+- [Applied Statistics and the SAS Programming Language](https://amzn.to/2DFLOXW)
+
 #### SAS Certification 
 
 - [Courses to get SAS certified](https://www.sas.com/en_us/certification.html)
