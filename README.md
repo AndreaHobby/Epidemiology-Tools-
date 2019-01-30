@@ -6,18 +6,18 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 ## Table of Contents
 - [Epidemiology Books](#epidemiology)
 - [Papers, Case Studies](#papers-case-studies)
-- [R Training](#rprogramming)
-- [Stata Training](#stata)
-- [SAS Training](#sastraining)
+- [R Programming](#r)
+- [Stata Programming](#stata)
+- [SAS Programming](#sastraining)
 - [APIs and Libraries](#apis-and-libraries)
 - [Datasets](#datasets)
 - [Misc](#misc)
 - [Meta](#meta)
 - [Other Curated Lists](#other-curated-lists)
 
-## Epidemiology Books
+## Epidemiology 
 
-## R Training
+## R
 
 #### R
 - [Text Mining with R](http://tidytextmining.com/)
