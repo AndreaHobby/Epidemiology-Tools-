@@ -37,6 +37,10 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [R Programming on Coursera](https://www.coursera.org/learn/r-programming)
 - [Mastering Software Development in R](https://www.coursera.org/specializations/r)
 
+#### R Packages
+
+- [Epidemiology R Packages](https://www.r-pkg.org/search.html?q=epidemiology&page=1)
+
 ## Stata
 - [Stata Cheat Sheet](http://geocenter.github.io/StataTraining/portfolio/01_resource/?fbclid=IwAR1L4-_1urU4BeNwvcMoPoBslhGh31c7XxTpSWkJglybQoCa4mSSBNQTUp0)
 
