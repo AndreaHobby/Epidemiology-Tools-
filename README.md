@@ -8,7 +8,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Papers, Case Studies](#papers-case-studies)
 - [R Programming](#r)
 - [Stata Programming](#stata)
-- [SAS Programming](#sastraining)
+- [SAS Programming](#sas)
 - [APIs and Libraries](#apis-and-libraries)
 - [Datasets](#datasets)
 - [Misc](#misc)
@@ -19,11 +19,16 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 ## R
 
-#### R
+#### R Books
 - [Text Mining with R](http://tidytextmining.com/)
 - [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
 
+## SAS
+
+#### SAS Certification 
+
+- [Courses to get SAS certified](https://www.sas.com/en_us/certification.html)
 
 ## Datasets
 
