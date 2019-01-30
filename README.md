@@ -15,12 +15,21 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 ## Epidemiology 
 
+#### Epidemiology Books
+
+- [Essentials of Epidemiology in Public Health](https://amzn.to/2UpdxSh)
+- [Epidemiology: Beyond the Basics](https://amzn.to/2G9BBom)
+- [Modern Epidemiology](https://amzn.to/2RXAu2)
+
 ## R
 
 #### R Books
 - [Text Mining with R](http://tidytextmining.com/)
 - [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
+- [R for Data Science](https://amzn.to/2MFCLcy)
+- [R in Action: Data Analysis and Graphics with R](https://amzn.to/2CWUHuz)
+- [R for Everyone: Advanced Analytics and Graphics](https://amzn.to/2MH1wF4)
 
 #### R Courses Online
 
