@@ -29,6 +29,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 #### SAS Certification 
 
 - [Courses to get SAS certified](https://www.sas.com/en_us/certification.html)
+- [SAS courses on Coursera](https://www.coursera.org/courses?query=sas)
 
 ## Datasets
 
