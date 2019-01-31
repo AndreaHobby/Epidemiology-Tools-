@@ -4,10 +4,11 @@ A list of resources of tools to assist with epidemiology research.
 Please contribute to this list by pull request or contact me on Twitter @ahobby9.
 
 ## Table of Contents
-- [Epidemiology Books](#epidemiology)
-- [R Programming](#r)
-- [Stata Programming](#stata)
-- [SAS Programming](#sas)
+- [Epidemiology](#epidemiology)
+- [Python](#python)
+- [R](#r)
+- [Stata](#stata)
+- [SAS](#sas)
 - [SPSS](#spss)
 - [API](#api)
 - [Datasets](#datasets)
@@ -23,6 +24,11 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Modern Epidemiology](https://amzn.to/2RXAu2)
 - [Epidemiology: Study Design and Data Analysis](https://amzn.to/2TnhVRP)
 - [Statistics for Epidemiology](https://amzn.to/2MFN5Bf)
+
+## Python
+
+#### Survival Analysis with Python
+- [Scikit Survival](https://github.com/sebp/scikit-survival)
 
 ## R
 
