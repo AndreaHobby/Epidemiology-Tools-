@@ -20,6 +20,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Essentials of Epidemiology in Public Health](https://amzn.to/2UpdxSh)
 - [Epidemiology: Beyond the Basics](https://amzn.to/2G9BBom)
 - [Modern Epidemiology](https://amzn.to/2RXAu2)
+- [Epidemiology: Study Design and Data Analysis](https://amzn.to/2TnhVRP)
 
 ## R
 
