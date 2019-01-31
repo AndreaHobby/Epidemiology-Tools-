@@ -49,6 +49,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 #### R Packages
 
 - [Epidemiology R Packages](https://www.r-pkg.org/search.html?q=epidemiology&page=1)
+- [openEBGM: EBGM Disproportionality Scores for Adverse Event Data Mining](https://cran.r-project.org/web/packages/openEBGM/index.html)
 
 ## Stata
 - [Stata Cheat Sheet](http://geocenter.github.io/StataTraining/portfolio/01_resource/?fbclid=IwAR1L4-_1urU4BeNwvcMoPoBslhGh31c7XxTpSWkJglybQoCa4mSSBNQTUp0)
