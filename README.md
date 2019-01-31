@@ -8,6 +8,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [R Programming](#r)
 - [Stata Programming](#stata)
 - [SAS Programming](#sas)
+- [SPSS](#spss)
 - [API](#api)
 - [Datasets](#datasets)
 - [Misc](#misc)
@@ -63,6 +64,11 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 #### SAS Tutorials
 - [UCLA SAS Tutorials](https://stats.idre.ucla.edu/sas/)
+
+## SPSS
+
+#### SPSS Tutorials
+- [UCLA SPSS Examples](https://stats.idre.ucla.edu/other/dae/)
 
 ## API
 
