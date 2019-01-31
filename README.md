@@ -21,6 +21,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Epidemiology: Beyond the Basics](https://amzn.to/2G9BBom)
 - [Modern Epidemiology](https://amzn.to/2RXAu2)
 - [Epidemiology: Study Design and Data Analysis](https://amzn.to/2TnhVRP)
+- [Statistics for Epidemiology](https://amzn.to/2MFN5Bf)
 
 ## R
 
@@ -109,3 +110,4 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 - [Useful R Packages](https://github.com/qinwf/awesome-R)
 - [Data Visualization Tools](https://github.com/infoculture/awesome-datajournalism)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
