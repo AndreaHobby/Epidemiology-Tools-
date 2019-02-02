@@ -96,6 +96,8 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 #### SQL
 
 - [Intro to SQL](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+- [SQLite Tutorial](http://www.sqlitetutorial.net/)
 
 #### Jobs
 
