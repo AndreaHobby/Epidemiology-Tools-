@@ -75,6 +75,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 #### SAS Tutorials
 - [UCLA SAS Tutorials](https://stats.idre.ucla.edu/sas/)
+- [SAS Macros Tutorial](https://stats.idre.ucla.edu/sas/seminars/sas-macros-introduction/)
 
 #### SAS Cheat Sheet
 - [SAS](https://sites.ualberta.ca/~ahamann/teaching/renr480/SAS-Cheat.pdf)
