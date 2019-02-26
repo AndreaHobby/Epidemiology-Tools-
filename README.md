@@ -118,6 +118,8 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 - [Emory Public Health Employment Connection website](http://cfusion.sph.emory.edu/PHEC/index.cfm?CFID=13092232&CFTOKEN=80281718)
 
+- [EpiMonitor Job Listings](https://www.epimonitor.net/)
+
 - [Council for State and Territorial Epidemiologists website](http://www.cste.org/ )'
 
 - [National Association of County and City Health Officials](http://www.naccho.org/ )
