@@ -25,6 +25,9 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Epidemiology: Study Design and Data Analysis](https://amzn.to/2TnhVRP)
 - [Statistics for Epidemiology](https://amzn.to/2MFN5Bf)
 
+####
+- [Epi Tutorial](http://activepi.herokuapp.com/courses/active-epi-course)
+
 ## Python
 
 #### Survival Analysis with Python
