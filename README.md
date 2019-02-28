@@ -24,6 +24,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Modern Epidemiology](https://amzn.to/2RXAu2)
 - [Epidemiology: Study Design and Data Analysis](https://amzn.to/2TnhVRP)
 - [Statistics for Epidemiology](https://amzn.to/2MFN5Bf)
+- [Epidemiologic Methods: Studying The Occurrence Of Illness](https://amzn.to/2EjfKs8)
 
 #### Epidemiology Review Website
 - [Epi Tutorial](http://activepi.herokuapp.com/courses/active-epi-course)
