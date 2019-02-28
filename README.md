@@ -137,6 +137,8 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 - [Job Search Tips](https://docs.google.com/document/d/1ooZ5MtfEo9lHDY_zS2UeFJRY8H5b17JfU5L_Ib6xlfA/mobilebasic?fbclid=IwAR15ni1J7xR9eo1bE5k0o4x3TKMHU5FncDfKdrMGjlTp0R_YKWEg3xIoLjo)
 
+- [IDDJobs](https://iddjobs.org/)
+
 ## Other Curated Lists
 
 - [Useful R Packages](https://github.com/qinwf/awesome-R)
