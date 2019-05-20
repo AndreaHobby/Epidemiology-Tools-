@@ -139,6 +139,12 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 - [IDDJobs](https://iddjobs.org/)
 
+- [USA Jobs](usajobs.gov)
+
+- [TX Gen Jobs](https://www.txgen.tamu.edu/jobs/)
+
+- [BioSpace Jobs](https://www.biospace.com/jobs/)
+
 ## Other Curated Lists
 
 - [Useful R Packages](https://github.com/qinwf/awesome-R)
