@@ -1,7 +1,7 @@
 # Epidemiology Tools
 A list of resources of tools to assist with epidemiology research. 
 
-Please contribute to this list by pull request or contact me on Twitter @ahobby9.
+Please contribute to this list by pull request or leave me a comment.
 
 ## Table of Contents
 - [Epidemiology](#epidemiology)
