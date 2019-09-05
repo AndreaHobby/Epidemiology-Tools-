@@ -59,6 +59,10 @@ Please contribute to this list by pull request or leave me a comment.
 
 - [dplyr package for data cleaning](https://ugoproto.github.io/ugo_r_doc/dplyr.pdf)
 
+#### Creating Publication Quality Tables 
+
+- [Design Principles](https://hughjonesd.github.io/huxtable/design-principles.html)
+
 ## Stata
 - [Stata Cheat Sheet](http://geocenter.github.io/StataTraining/portfolio/01_resource/?fbclid=IwAR1L4-_1urU4BeNwvcMoPoBslhGh31c7XxTpSWkJglybQoCa4mSSBNQTUp0)
 
